@@ -1859,15 +1859,13 @@ procedure movement
 	    y := 180
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    athens
-	elsif
-
-		dicepos = 2 then         %Barcelona
+	elsif dicepos = 2 then      %Barcelona
 	    x := 260
 	    y := 180
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    barcelona
-	elsif
-		dicepos = 3 then         %Chance
+	elsif dicepos = 3 then         %Chance
+
 	    x := 190
 	    y := 180
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
@@ -1878,92 +1876,92 @@ procedure movement
 	    y := 180
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    gdynia
-	elsif
-		dicepos = 5 then         %FREE PARKING
+	elsif dicepos = 5 then         %FREE PARKING
+
 	    x := 50
 	    y := 180
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    parking
-	elsif
-		dicepos = 6 then         %Toronto
+	elsif dicepos = 6 then         %Toronto
+
 	    x := 50
 	    y := 250
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    toronto
-	elsif
-		dicepos = 7 then         %Rome
+	elsif dicepos = 7 then         %Rome
+
 	    x := 50
 	    y := 320
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    rome
-	elsif
-		dicepos = 8 then         %Chance
+	elsif dicepos = 8 then         %Chance
+
 	    x := 50
 	    y := 390
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    chance
-	elsif
-		dicepos = 9 then         %Vancouver
+	elsif dicepos = 9 then         %Vancouver
+
 	    x := 50
 	    y := 460
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    vancouver
-	elsif
-		dicepos = 10 then         %FREE PARKING
+	elsif dicepos = 10 then         %FREE PARKING
+
 	    x := 50
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    parking
-	elsif
-		dicepos = 11 then         %New York
+	elsif dicepos = 11 then          %New York
+
 	    x := 120
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    newyork
-	elsif
-		dicepos = 12 then         %London
+	elsif dicepos = 12 then         %London
+
 	    x := 190
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    london
-	elsif
-		dicepos = 13 then         %Chance
+	elsif dicepos = 13 then         %Chance
+
 	    x := 260
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    chance
-	elsif
-		dicepos = 14 then         %Hong Kong
+	elsif dicepos = 14 then          %Hong Kong
+
 	    x := 330
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    hongkong
-	elsif
-		dicepos = 15 then         %FREE PARKING
+	elsif dicepos = 15 then          %FREE PARKING
+
 	    x := 400
 	    y := 530
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    parking
-	elsif
-		dicepos = 16 then         %Paris
+	elsif dicepos = 16 then          %Paris
+
 	    x := 400
 	    y := 460
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    paris
-	elsif
-		dicepos = 17 then         %Montreal
+	elsif dicepos = 17 then         %Montreal
+
 	    x := 400
 	    y := 390
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    montreal
-	elsif
-		dicepos = 18 then         %Chance
+	elsif dicepos = 18 then         %Chance
+
 	    x := 400
 	    y := 320
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
 	    chance
-	elsif
-		dicepos = 19 then         %Riga
+	elsif dicepos = 19 then          %Riga
+
 	    x := 400
 	    y := 250
 	    Pic.ScreenLoad ("red.jpg", x, y, picCopy)
