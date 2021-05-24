@@ -8,7 +8,7 @@ var scorestring, scorestring2, name, skipper, roll, name2, statement : string
 var dicepos, dicepos2 : int := 0
 var x, x2 : int := 400
 var y, y2 : int := 180
-var score, score2 : int := 15000000 % Feel Free to change the value of startin money here
+var score, score2 : int := 15000000 % Feel Free to change the value of starting money here
 var player : int := 1
 
 %ScoreString
